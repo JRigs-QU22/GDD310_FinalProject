@@ -1,6 +1,10 @@
 {eec5289e-0c75-4362-8e5d-cb5281d5cf08} bank:/AmbientBank
+{2be20f73-02e5-4640-a356-677d0849aaa8} bank:/CameraBank
+{e36fc80a-e354-4c74-afe4-cdb4dfb62786} bank:/GoatmanBank
 {afbb0190-478a-49a9-b956-1b0c055bbdbe} bank:/Master
 {37a62144-36f1-05eb-3f1f-91f2f4a8bb26} bank:/Master.strings
 {98b96c50-33c8-4046-919d-549e2007bffc} bus:/
 {41006840-1d50-4fb2-9857-9c3d9eb1f735} bus:/Reverb
+{499527f4-7a5f-44b6-98ea-4a799ceb5322} event:/Camera
 {d7539061-9e0b-4ec5-8aa8-fcb8a85ffba6} event:/ForestAmbience
+{a99aea4c-3952-48b2-b787-bf6ae5d72aa3} event:/Goatman Roar
